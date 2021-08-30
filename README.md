@@ -11,7 +11,7 @@ Items:
 
 Points:
 - 3x Skull    = Game Over
-- 2x Skull    = -200
+- 2x Skull    = -100
 - 3x Bell     = 500
 - 3 of a kind = 100
 - 2 of a kind = 50
